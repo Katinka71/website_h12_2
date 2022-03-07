@@ -1,0 +1,72 @@
+.bakker
+  {
+    background-color: #6495ED; width: 50%; height: 50px;
+  }
+#bakkerijtabel
+  {
+    border-color: brown;
+  }
+#a1
+  {
+    background-color: plum; color: darkorchid; width: 150px;
+  }
+#a2
+  {
+    background-color: violet; color: darkslateblue;
+  }
+#a3
+  {
+    background-color: orchid; color: mediumpurple;
+  }
+#a4
+  {
+    background-color: mediumOrchid; color: indigo;
+  }
+#b1
+  {
+    background-color: #FFEBCD; width: 150px;
+  }
+#b2
+  {
+    background-color: #FFDEAD;
+  }
+#b3
+  {
+   background-color: #D2B48C;
+  }
+#b4
+  {
+    background-color: #CD853F;
+  }
+#c1
+  {
+   background-color: palegreen; color: cornflowerblue; width: 150px;
+  }
+#c2
+  {
+    background-color: chartreuse; color: steelblue;
+  }
+#c3
+  {
+    background-color: mediumaquamarine; color: blue;
+  }
+#c4
+  {
+    background-color: seagreen; color: darkblue;
+  }
+#d1
+  {
+    background-color: #FFFAFA; width: 150px;
+  }
+#d2
+  {
+    background-color: #F0FFF0;
+  }
+#d3
+  {
+   background-color: #FFF0F5;
+  }
+#d4
+  {
+   background-color: #FFE4E1;
+  }
